@@ -14,7 +14,7 @@
   "license": "Apache-2.0",
   "main": "src/mopidy.js",
   "module": "dist/mopidy.js",
-  "types": "src/mopidy.d.ts",
+  "types": "dist/mopidy.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/mopidy/mopidy.js"
